@@ -1,6 +1,6 @@
 # os_pintos-2021
 ### Sogang University Operating System Project
-
+![image](https://user-images.githubusercontent.com/64165346/168048401-8ccb74e8-adf1-4f45-9111-d70c4d5e5946.png)
 -------------------------------
 
 ## Project 1
